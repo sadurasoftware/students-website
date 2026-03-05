@@ -1,0 +1,37 @@
+.head4{
+    display: flex;
+    flex-direction: column;
+}
+ul{
+    display: flex;
+    font-size: 48px;
+    
+}
+
+ul{
+    display: flex;
+    font-size: 30px;
+    color: #4CAF4F;
+}
+ul{
+    display: flex;
+    font-size: 10px;
+}
+.head5{
+    display: flex;
+}
+.head6{
+    display: flex;
+}
+ul{
+    display: flex;
+
+    font-size: 18px;
+    color: #FFFFFF;
+    background-color: #4CAF4F;
+
+}
+.head7{
+    display: flex;
+}
+

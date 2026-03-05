@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+     background-color: black;
+     font-family: "Jost", sans-serif;
+     font-optical-sizing: auto;
+     font-size: 15.86px;
+     font-style: medium;
+    
+}
+img {
+  height: 70px;
+}
+header {
+    display: flex;
+    align-items: center;
+    background-color: black;
+    justify-content: space-between;
+    padding:20px 20px 30px 20px ;
+    border-bottom: 1px solid #262626;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    color: white;
+     gap: 30px;
+}
+
+span{
+    color: yellow;
+    background-color:#262626; 
+    padding: 13.6px 24.96px 13.6px 24.96px;
+    border-radius: 7px;
+}
+button{
+    background-color: yellow;
+    border-radius: 10px ;
+    padding:12px 18px 12px 18px;
+}
+

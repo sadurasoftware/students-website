@@ -1,0 +1,52 @@
+.container{
+display: flex;
+}
+.sec1-1{  
+      
+}
+
+
+
+.s1{
+    color: black;
+    font-size: 35px;
+
+}
+.s2{
+    color: black;
+    font-size: 35px;
+    margin-top: 20px;
+}
+.sec1-2{
+    
+
+}
+.s3{
+    color: #717171;
+    font-size: 15px;
+}
+.s4{
+    color: #717171;
+    font-size: 15px;
+}
+.s5{
+    color: #717171;
+    font-size: 15px;
+}
+.s6{
+    color: #717171;
+    font-size: 15px;
+}
+.s7{
+    color: #717171;
+    font-size: 15px;
+}
+.s8{
+    color: #717171;
+    font-size: 15px;
+}
+button{
+     background-color: green;
+     color: white;
+     margin-left: 440px;
+}
