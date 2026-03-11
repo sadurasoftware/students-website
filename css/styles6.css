@@ -1,5 +1,7 @@
 .container{
 display: flex;
+justify-content: space-around;
+
 }
 .sec1-1{  
       
@@ -48,5 +50,9 @@ display: flex;
 button{
      background-color: green;
      color: white;
-     margin-left: 440px;
+   margin-left: 700px;
+   border: none;
+   border-radius: 10px;
+   padding: 10px;
+   
 }
